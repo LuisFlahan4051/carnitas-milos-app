@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Carnitas Milos</string>
+
+    <string name="operador">Operador</string>
+    <string name="mainlogo">mainLogo</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="password">Password</string>
+    <string name="labelPass">Contraseña</string>
+</resources>
